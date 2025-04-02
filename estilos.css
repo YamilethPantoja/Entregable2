@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+*{
+    font-family: "PT Serif", serif;
+}
+body{
+    background-image:url(./img-proy/fondo-pagin.jpg) ;
+    background-size: cover;
+}
+
+.myButton{
+    background-color:white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+}
+
+.mibuttoN{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+}
+
+p{
+    font-size: 1rem;
+    color: black;
+}
+
+.myTitle{
+    font-family: "Gravitas One", serif;
+    font-size: 3rem;
+    color:darkred;
+}
+
+.mitiTle{
+    font-family: "Gravitas One", serif;
+    font-size: 2rem;
+    color: darkred;
+
+}
